@@ -15,7 +15,7 @@ public class InternalStorage {
 		ex.size();
 		is.processorName();
 		is.ramSize();		
-		
+		System.out.println("Hai suguna");
 
 	}
 
