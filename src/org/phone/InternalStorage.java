@@ -17,7 +17,11 @@ public class InternalStorage {
 		ex.size();
 		is.processorName();
 		is.ramSize();		
+
+		System.out.println("Hai suguna");
+
 		is.ramSizeModify();
+       System.out.println("Update information");
 
 	}
 
