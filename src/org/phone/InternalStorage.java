@@ -21,7 +21,7 @@ public class InternalStorage {
 		System.out.println("Hai suguna");
 
 		is.ramSizeModify();
-
+       System.out.println("Update information");
 
 	}
 
