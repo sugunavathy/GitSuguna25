@@ -7,7 +7,9 @@ public class InternalStorage {
 	public void ramSize() {
 		System.out.println("Ram Size :3535435");
 	}
-
+	public void ramSizeModify() {
+		System.out.println("Suguna");
+	}
 	public static void main(String[] args) {
 		
 		InternalStorage is= new InternalStorage();
@@ -15,7 +17,11 @@ public class InternalStorage {
 		ex.size();
 		is.processorName();
 		is.ramSize();		
+
 		System.out.println("Hai suguna");
+
+		is.ramSizeModify();
+
 
 	}
 
